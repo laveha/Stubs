@@ -1,0 +1,7 @@
+D:\Проекты\Stubs\Stubs\bin\Debug\Stubs.exe.config
+D:\Проекты\Stubs\Stubs\bin\Debug\Stubs.exe
+D:\Проекты\Stubs\Stubs\bin\Debug\Stubs.pdb
+D:\Проекты\Stubs\Stubs\obj\Debug\Stubs.csproj.AssemblyReference.cache
+D:\Проекты\Stubs\Stubs\obj\Debug\Stubs.csproj.CoreCompileInputs.cache
+D:\Проекты\Stubs\Stubs\obj\Debug\Stubs.exe
+D:\Проекты\Stubs\Stubs\obj\Debug\Stubs.pdb
